@@ -16,9 +16,6 @@ After pushing to `main`, go to:
 
 - **Settings → Pages** and ensure the source is **GitHub Actions**.
 
-Your site URL will be:
-
-`https://<your-username>.github.io/<your-repo-name>/`
 
 ## Local preview
 
